@@ -1,0 +1,5 @@
+#surefire
+#Thu Nov 02 14:42:20 CST 2017
+user.dir=D\:\\workspace\\sink
+localRepository=D\:\\Program Files\\apache-maven-3.5.0\\repository
+basedir=D\:\\workspace\\sink
